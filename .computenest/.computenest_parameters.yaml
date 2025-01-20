@@ -1,0 +1,12 @@
+ChartValues: {}
+HelmChartPath: charts/incubator/hyperswitch-stack
+RuntimeType: Kubernetes
+ServiceType: private
+ArtifactSourceType: HelmChart
+ServiceBuildRegion: ap-southeast-1
+RepoName: JJGGu/hyperswitch-helm
+RegionId: cn-hangzhou
+OutputType: HelmNotes
+Owner: JJGGu
+Branch: main
+Platform: github
